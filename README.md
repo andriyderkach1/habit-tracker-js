@@ -33,7 +33,11 @@ An interactive habit tracking web app built with JavaScript using the MVC (Model
 ## Deployment
 
 Hosted on GitHub Pages:  
-**https://andriyderkach1.github.io/habit-tracker/**
+**https://andriyderkach1.github.io/habit-tracker-js/**
+
+## Report
+
+📄 [View lab report (Google Drive)](https://drive.google.com/file/d/1t7hqtcMy4ENpMih2gWbwU50As3xZxxkz/view?usp=sharing)
 
 ## Author
 
