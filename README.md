@@ -37,7 +37,7 @@ Hosted on GitHub Pages:
 
 ## Report
 
-📄 [View lab report (Google Drive)](https://drive.google.com/file/d/1t7hqtcMy4ENpMih2gWbwU50As3xZxxkz/view?usp=sharing)
+📄 [View lab report (Google Drive)](https://drive.google.com/file/d/1PTQNqWvMdUT8oUl4Db0kBwcvtL-JCJVE/view?usp=sharing)
 
 ## Author
 
