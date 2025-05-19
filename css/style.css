@@ -1,0 +1,47 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: #FFF3E0;
+  font-family: 'Poppins', sans-serif;
+}
+
+.container.main-content {
+  flex: 1;
+}
+
+footer {
+  margin-top: auto;
+  box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
+}
+
+header.bg-light,
+footer.bg-dark {
+  background-color: #FFF3E0 !important;
+  color: #333 !important;
+}
+header.bg-light .navbar-brand,
+header.bg-light .nav-link {
+  color: #333 !important;
+}
+
+.habit-desc {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease;
+  white-space: normal;       
+  word-wrap: break-word;     
+  word-break: break-word;    
+}
+
+.habit-desc hr {
+  border: none;
+  border-top: 2px solid #666;
+  margin: 0.75rem 0;
+}
